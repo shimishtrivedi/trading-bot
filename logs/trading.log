@@ -1,0 +1,16 @@
+2026-05-18 20:40:19,081 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 20:40:19,172 - ERROR - HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/order (Caused by NameResolutionError("HTTPSConnection(host='testnet.binancefuture.com', port=443): Failed to resolve 'testnet.binancefuture.com' ([Errno 11003] getaddrinfo failed)"))
+2026-05-18 20:43:55,239 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 20:43:56,361 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-18 21:09:29,615 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 21:09:29,671 - ERROR - HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/order (Caused by NameResolutionError("HTTPSConnection(host='testnet.binancefuture.com', port=443): Failed to resolve 'testnet.binancefuture.com' ([Errno 11003] getaddrinfo failed)"))
+2026-05-18 21:14:36,294 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 21:14:37,487 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-18 21:18:24,126 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 21:18:24,854 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-18 21:31:13,756 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 21:31:13,955 - ERROR - APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-05-18 21:32:09,526 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 21:32:09,685 - ERROR - APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-05-18 21:38:14,566 - INFO - Request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.001, price=None)
+2026-05-18 21:38:14,752 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action.
